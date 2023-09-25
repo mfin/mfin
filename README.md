@@ -2,6 +2,5 @@
 
 ⚡ DevOps, GitOps, SRE and all the fun stuff.
 
-🌐 [mfin.dev](https://mfin.dev)<br />
-📫 hi@mfin.dev<br />
+🌐 [finzgar.net](https://finzgar.net)<br />
 🐘 [fosstodon.org/@matjaz](https://fosstodon.org/@matjaz)
